@@ -2,6 +2,8 @@
 
 MySecuXPay is an iOS Demo APP, which uses the 'SecuXPaymentKit'. 
 
+To run the project, clone the repo, and run pod install from the project directory
+
 ## Screenshot
 
 <p float="center">
