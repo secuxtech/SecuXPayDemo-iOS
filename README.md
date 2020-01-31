@@ -4,7 +4,7 @@ MySecuXPay is an iOS Demo APP, which uses the 'SecuXPaymentKit'.
 
 ## Screenshot
 
-<p float="left">
+<p float="center">
 <img src="Screenshot/screenshot2.jpeg" width="200">
 <img src="Screenshot/screenshot4.jpeg" width="200">
 <img src="Screenshot/screenshot3.jpeg" width="200">
